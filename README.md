@@ -15,7 +15,7 @@ A simple mobile application to convert currencies using real-time exchange rates
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/deeplakhani/currency-converter.git
+    git clone https://github.com/Deep1454/currency-converter.git
     cd currency-converter
     ```
 
