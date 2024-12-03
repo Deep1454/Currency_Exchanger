@@ -40,5 +40,5 @@ A simple mobile application to convert currencies using real-time exchange rates
 ## Author
 
 **Deep Lakhani**  
-Student ID: 10140218
+
 
